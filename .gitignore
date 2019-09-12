@@ -1,2 +1,4 @@
 node_modules
 .env
+services: postgresql
+env: DATABASE_URL=postgres://localhost:5432/travis
